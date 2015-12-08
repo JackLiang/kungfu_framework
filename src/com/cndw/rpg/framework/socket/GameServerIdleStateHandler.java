@@ -27,7 +27,7 @@ public class GameServerIdleStateHandler extends IdleStateHandler
   {
     if (state == IdleState.READER_IDLE) {
       ctx.getChannel().close();
-      this.log.debug("channelIdle read timeout" + ctx.getChannel().getRemoteAddress().toString() + " | " + lastActivityTimeMillis);
+      this.log.debug("channelIdle read timeout..." + ctx.getChannel().getRemoteAddress().toString() + " | " + lastActivityTimeMillis);
     }
   }
 }
