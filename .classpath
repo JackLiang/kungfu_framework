@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.2.0.RELEASE/libs/spring-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/adobe/blazeds/blazeds-common/4.0.0.14931/blazeds-common-4.0.0.14931.jar"/>
+	<classpathentry kind="lib" path="lib/adobe/blazeds/blazeds-core/4.0.0.14931/blazeds-core-4.0.0.14931.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.2.0.RELEASE/libs/spring-beans-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.2.0.RELEASE/libs/spring-context-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/netty/netty-3.2.6.Final.jar" sourcepath="H:/workspace/kungfu_framework/lib/netty/netty-3.2.3.Final-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
